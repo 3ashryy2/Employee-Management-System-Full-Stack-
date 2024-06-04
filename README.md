@@ -15,7 +15,7 @@ This project is a Company Management System with separate backend and frontend c
     - [Installation](#installation-1)
     - [Running the Development Server](#running-the-development-server)
     - [Running Tests](#running-tests-1)
-3. [Directory Structure](#directory-structure)
+
 
 ## Backend (Django)
 
